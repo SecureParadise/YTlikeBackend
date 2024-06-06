@@ -1,0 +1,11 @@
+{
+  "name": "3_mega_project",
+  "version": "1.0.0",
+  "description": "a backend for youtube like application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AMARESH",
+  "license": "ISC"
+}
