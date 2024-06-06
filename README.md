@@ -28,3 +28,5 @@ B. We will use nodemon
                 -->Look at package.JSON,the added line is ::"devDependencies": {
                                                         "nodemon": "^3.1.3"
                                                              }
+### 5.../src$mkdir controllers db middlewares models routes utils
+6.Prettier is a dev dependency
